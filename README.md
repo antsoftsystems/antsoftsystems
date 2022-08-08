@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antsoftsystems
-- 👀 I’m interested in Scientific Developer
-- 🌱 I’m currently learning Smarty, PHP, Laravel, C#
+- 👀 I’m interested in Scientific ans Commercial Developer
+- 🌱 I’m currently learning Smarty, PHP, Laravel, C#, JavaScript
 - 💞️ I’m looking to collaborate on scientific developer
 - 📫 How to reach me www.antsoft.com.br
 
